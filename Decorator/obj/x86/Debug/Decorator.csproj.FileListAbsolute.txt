@@ -1,0 +1,5 @@
+F:\projects\ConsoleDecorator\Decorator\bin\Debug\Decorator.exe
+F:\projects\ConsoleDecorator\Decorator\bin\Debug\Decorator.pdb
+F:\projects\ConsoleDecorator\Decorator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\projects\ConsoleDecorator\Decorator\obj\x86\Debug\Decorator.exe
+F:\projects\ConsoleDecorator\Decorator\obj\x86\Debug\Decorator.pdb
